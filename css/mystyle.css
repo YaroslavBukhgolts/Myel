@@ -425,8 +425,8 @@ button[type=submit] {
     align-items: center;
     background: #E5E5E5;
 }
-.header__language {
-    margin-right: 355px;
+.footer__language {
+    margin-right: 425px;
 }
 .footer__copyrightText {
     font-family: 'Roboto', sans-serif;
